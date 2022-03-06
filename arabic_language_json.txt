@@ -1,0 +1,336 @@
+SignInScreen English:
+{
+    "arabic":"Arabic",
+    "english":"English",
+    "email":"Email",
+    "contactInfo":"contactinfo@gmail.com",
+    "password":"Password",
+    "forgotPassword?":"Forgot Password?",
+    "signIn":"Sign In",
+    "or":"Or",
+    "useFingerPrint":"Use Finger print",
+    "newToFerasPay?":"New to FerasPay?",
+    "createAccount":"Create Account",
+}
+SignInScreen Arabic:
+{
+    "arabic":"عربي",
+    "english":"إنجليزي",
+    "email":"بريد الالكتروني",
+    "contactInfo":"contactinfo@gmail.com",
+    "password":"كلمة المرور",
+    "forgotPassword?":"هل نسيت كلمة السر؟",
+    "signIn":"تسجيل الدخول",
+    "or":"أو",
+    "useFingerPrint":"استخدم بصمة الإصبع",
+    "newToFerasPay?":"هل أنت جديد على FerasPay؟",
+    "createAccount":"إنشاء حساب",
+}
+
+
+SignUpScreen English:
+{
+    "selectCountry":"Select Country",
+    "fullName":"Full Name",
+    "email":"Email",
+    "password":"Password",
+    "signUp":"Sign Up",
+    "alreadyHaveAnAccount":"Already have an account",
+    "signIn":"Sign In",
+}
+
+SignUpScreen Arabic:
+{
+    "selectCountry":"حدد الدولة",
+    "fullName":"الاسم الكامل",
+    "email":"بريد الالكتروني",
+    "password":"كلمة المرور",
+    "signUp":"اشتراك",
+    "alreadyHaveAnAccount":"هل لديك حساب",
+    "signIn":"تسجيل الدخول",
+}
+
+VerificationPage English:
+{
+   "userVerification":"User Verification",
+   "toHelpKeepYourAccountSafe":"To help keep your account safe",
+   "completeTheTaskBelow":"Complete the task below",
+   "enterAVerificationCode":"Enter a verificaiton code",
+   "aTextMessageWithAverificationCodeWasJustSent *** *** 68":"A text message with a verification code was jsut send *** *** 68",
+   "didn'tGetAnyCode":"Didn't get any code? ",
+   "tryAgain":"Try again",
+   "enter6-digitCode":"Enter 6-digit code",
+   "confirm":"Confirm",
+   "don'tAskAgainOnThisDevice":"Don't ask again on this device",
+}
+
+VerificationPage Arabic:
+{
+   "userVerification":"التحقق من المستخدم",
+   "toHelpKeepYourAccountSafe":"للمساعدة في الحفاظ على حسابك آمنًا",
+   "completeTheTaskBelow":"أكمل المهمة أدناه",
+   "enterAVerificationCode":"أدخل رمز التحقق",
+   "aTextMessageWithAverificationCodeWasJustSent *** *** 68":"تم إرسال رسالة نصية تحتوي على رمز التحقق من jsut *** *** 68",
+   "didn'tGetAnyCode":" لم تحصل على أي رمز؟",
+   "tryAgain":"حاول مجددا",
+   "enter6-digitCode":"أدخل الرمز المكون من 6 أرقام",
+   "confirm":"يتأكد",
+   "don'tAskAgainOnThisDevice":"لا تسأل مرة أخرى على هذا الجهاز",
+}
+
+HomePage English:
+{
+    "goodMorning":"Good Morning",
+    "anthonyJoshua":"Anthony Joshua",
+    "addMoney":"Add Money",
+    "getEmergencySupport":"Get Emergency Support",
+}
+
+HomePage Arabic:
+{
+    "goodMorning":"صباح الخير",
+    "anthonyJoshua":"Anthony Joshua",
+    "addMoney":"إضافة المال",
+    "getEmergencySupport":"احصل على دعم الطوارئ",
+}
+
+Drawable English:
+{
+    "home":"Home"
+    "profile":"Profile",
+    "addMoney":"Add Money",
+    "sendMoney":"Send Money",
+    "buyAGiftCard":"Buy a gift card",
+    "createAVirtualCard":"Create a virtual card",
+    "transactions":"Transactions",
+    "settings":"Settings",
+    "supportCentre":"Support Center",
+    "signOut":"Sign Out",
+}
+
+Drawable Arabic:
+{
+    "home":"الصفحة الرئيسية",
+    "profile":"حساب تعريفي",
+    "addMoney":"إضافة المال",
+    "sendMoney":"إرسال الأموال",
+    "buyAGiftCard":"شراء بطاقة هدية",
+    "createAVirtualCard":"قم بإنشاء بطاقة افتراضية",
+    "transactions":"المعاملات",
+    "settings":"إعدادات",
+    "supportCentre":"مركز الدعم",
+    "signOut":"خروج",
+}
+
+AddMoneyPage English:
+{
+    "addMoney":"Add Money",
+    "addMoneyOrRechargeMoney":"Add money or recharge money",
+    "or":"Or",
+    "doYouHaveAnyCode":"Do you have any code?",
+    "enterTheCodeHere":"Enter the code here",
+}
+
+AddMoneyPage Arabic:
+{
+    "addMoney":"إضافة المال",
+    "addMoneyOrRechargeMoney":"أضف نقودًا أو أعد شحن الأموال",
+    "or":"أو",
+    "doYouHaveAnyCode":"هل لديك أي كود؟",
+    "enterTheCodeHere":"أدخل الرمز هنا",
+}
+
+SupportCenterPageOne English:
+{
+   "supportCenter":"Support Center",
+   "pleaseTellAboutYourComplain":"Please tell about your complain",
+   "writeHere":"Write here",
+   "sendComplain":"Send Complain",
+}
+
+SupportCenterPageOne Arabic:
+{
+   "supportCenter":"مركز الدعم",
+   "pleaseTellAboutYourComplain":"من فضلك قل عن شكواك",
+   "writeHere":"اكتب هنا",
+   "sendComplain":"أرسل شكوى",
+}
+
+SupportCenterPageSecond English:
+{
+  "supportCenter":"Support Center",
+  "agentJohnHasJoinedTheChat":"Agent John has joined the chat",
+  "johnHiAnthony":"John Hi, Anthony",
+  "thankYouForContactingUsHowCanIHelpYouAnthony":"Thank you for contacting us how can i help you anthony",
+  "hiJohn":"Hi, John",
+  "myAccountHasSomeProblemCouldYouHelpMe":"My Account has some problem could you help me",
+  "writeHere":"Write here",
+}
+
+SupportCenterPageSecond Arabic:
+{
+  "supportCenter":"مركز الدعم",
+  "agentJohnHasJoinedTheChat":"انضم الوكيل جون إلى الدردشة",
+  "johnHiAnthony":"جون هاي ، أنتوني",
+  "thankYouForContactingUsHowCanIHelpYouAnthony":"شكرا على اتصالك بنا كيف يمكنني مساعدتك أنتوني",
+  "hiJohn":"مرحبًا جون",
+  "myAccountHasSomeProblemCouldYouHelpMe":"حسابي به بعض المشاكل هل يمكنك مساعدتي",
+  "writeHere":"اكتب هنا",
+}
+
+ProfilePage English:
+{
+  "goToHomePage":"Go to home page",
+}
+
+ProfilePage Arabic:
+{
+  "goToHomePage":"اذهب إلى الصفحة الرئيسية",
+}
+
+SendMoneyPage English:
+{
+  "sendMoney":"Send Money",
+  "selectCurrencyAndWriteAmount":"Select currency and write amount",
+  "inputRecipientEmail":"Input Recipient Email",
+}
+
+SendMoneyPage Arabic:
+{
+  "sendMoney":"إرسال الأموال",
+  "selectCurrencyAndWriteAmount":"حدد العملة واكتب المبلغ",
+  "inputRecipientEmail":"إدخال البريد الإلكتروني للمستلم",
+}
+
+SendMoneyPageSecond English:
+{
+  "sendMoney":"Send Money",
+  "successfully":"Successfully",
+  "youHaveSuccessfullySent":"You have successfully send $100.00 from your account",
+  "yourNewBalacne":"Your new balace is",
+  "goToHomePage":"Go to home page",
+}
+
+SendMoneyPageSecond Arabic:
+{
+  "sendMoney":"إرسال الأموال",
+  "successfully":"بنجاح",
+  "youHaveSuccessfullySent":"لقد نجحت في إرسال 100.00 دولار من حسابك",
+  "yourNewBalacne":"بلاتيس الجديد الخاص بك هو",
+  "goToHomePage":"اذهب إلى الصفحة الرئيسية",
+}
+
+BuyGiftCardPageOne English:
+{
+    "buyGiftCard":"Buy Gift Card",
+    "selectAGiftCard":"Select A Gift Card from bellow",
+}
+
+BuyGiftCardPageOne Arabic:
+{
+    "buyGiftCard":"شراء بطاقة هدية",
+    "selectAGiftCard":"حدد بطاقة هدية من أدناه",
+}
+
+BuyGiftCardPageSecond English:
+{
+    "purchase":"Purchase",
+}
+
+BuyGiftCardPageSecond Arabic:
+{
+    "purchase":"شراء",
+}
+
+BuyGiftCardPagethird English:
+{
+    "youHaveSuccessfullyPurchase":"You have successfully purchase a",
+    "yourNewBalanceIs":"Your new balace is",
+}
+
+BuyGiftCardPagethird Arabic:
+{
+    "youHaveSuccessfullyPurchase":"لقد قمت بشراء بنجاح",
+    "yourNewBalanceIs":"بلاتيس الجديد الخاص بك هو",
+}
+
+VirtualCardPageOne English:
+{
+    "virtualCard":"Virtual Card",
+    "instantVirtualCard":"Instant Virtual Card",
+    "chooseCardBrand":"Choose Card Brand",
+    "creatNow":"Create Now",
+}
+
+VirtualCardPageOne Arabic:
+{
+    "virtualCard":"بطاقة افتراضية",
+    "instantVirtualCard":"بطاقة افتراضية فورية",
+    "chooseCardBrand":"اختر ماركة البطاقة",
+    "creatNow":"اصنع الان",
+}
+
+VirtualCardPageSecond English:
+{
+    "youHaveSuccessfullyAppliedForYourVisaCard":"You have successfully applied for your Visa Card",
+    "youWillBeNotifiedWhen":"You will be notified when your card is ready",
+}
+
+VirtualCardPageSecond Arabic:
+{
+    "youHaveSuccessfullyAppliedForYourVisaCard":"لقد تقدمت بنجاح للحصول على بطاقة فيزا الخاصة بك",
+    "youWillBeNotifiedWhen":"سيتم إعلامك عندما تكون بطاقتك جاهزة",
+}
+
+SettingPageOne English:
+{
+    "changeYourName":"Change Your Name",
+    "wrietYourNewName":"Write Your New Name",
+    "changePassword":"Change password",
+    "writeOldPassword":"Write old password",
+    "writeNewPassword":"Write new password",
+    "changeLanguage":"Change Language",
+}
+
+SettingPageOne Arabic:
+{
+    "changeYourName":"غير اسمك",
+    "wrietYourNewName":"اكتب اسمك الجديد",
+    "changePassword":"تغيير كلمة المرور",
+    "writeOldPassword":"اكتب كلمة المرور القديمة",
+    "writeNewPassword":"اكتب كلمة مرور جديدة",
+    "changeLanguage":"تغيير اللغة",
+}
+
+SettingPagetwo English:
+{
+    "youHaveSuccessfullyChangeYourName":"You have successfully change your name",
+}
+
+SettingPagetwo Arabic:
+{
+    "youHaveSuccessfullyChangeYourName":"لقد نجحت في تغيير اسمك",
+}
+
+SettingPageThree English:
+{
+    "youHaveSuccessfullyChangeYourPassword":"You have successfully change your password",
+}
+
+SettingPageThree Arabic:
+{
+    "youHaveSuccessfullyChangeYourPassword":"لقد نجحت في تغيير كلمة المرور الخاصة بك",
+}
+
+SignOut English:
+{
+    "doYouWantToSignOutFrom":"Do you want to sign out from FerasPay?",
+    "signOut":"SignOut",
+}
+
+SignOut Arabic:
+{
+    "doYouWantToSignOutFrom":"هل تريد الخروج من FerasPay؟",
+    "signOut":"خروج",
+}
+
