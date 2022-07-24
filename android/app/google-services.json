@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520713972223",
+    "project_id": "feras-pay",
+    "storage_bucket": "feras-pay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520713972223:android:c0aa11aa8e6e2f2ce69fca",
+        "android_client_info": {
+          "package_name": "com.feras_pay.feras_pay_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520713972223-48pl38fnjfl111ph4c14ba690v8slj6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4IGJkMt6KtRo4jaCe1XW8XtpCDzuBm6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520713972223-48pl38fnjfl111ph4c14ba690v8slj6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
